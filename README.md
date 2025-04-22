@@ -60,7 +60,7 @@ A: 放心，BBR + FQ 是最常见的方案，适用于大多数场景～
 A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.net) 查看修复教程。
 
 ---
-
+<!--
 ### 🌈 作者信息  
 
 **Joey**  
@@ -68,6 +68,7 @@ A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.
 💬 群组：[Telegram Feedback Group](https://t.me/+ft-zI76oovgwNmRh)
 
 ---
+-->
 
 ### ❤️ 开源协议  
 
@@ -85,6 +86,7 @@ A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.
 
 
 🎉 **快来体验不一样的 BBR 管理工具吧！** 🎉  
+<!--
 ## Star History
 
 <a href="https://star-history.com/#byJoey/Actions-bbr-v3&Timeline">
@@ -94,3 +96,4 @@ A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline" />
  </picture>
 </a>
+-->
